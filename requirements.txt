@@ -1,0 +1,7 @@
+lib_ocr
+google-generativeai
+python-dotenv
+pytesseract
+Pillow
+opencv-python
+pyautogui
